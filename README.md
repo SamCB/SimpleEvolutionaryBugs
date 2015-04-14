@@ -2,14 +2,16 @@
 A simple project that I made a while ago over a few days, putting together a few things I learned from my AI Course at Uni.
 
 ## Installation
-Executables:
-* Mac: [Download](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/Evolutionary_Bugs_Program.app.zip)
+Executables (Must have Java 7 installed to run):
+* Mac: [Download](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.macosx.zip)
+* Windows: [Download 32-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.windows32.zip), [Download 64-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.windows64.zip)
+* Linux: [Download 32-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.linux32.zip), [Download 64-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.linux64.zip)
 
-For Windows or Linux, you'll need to run through processing. Processing can be downloaded [here](http://processing.org).
+Or you can use the code and run through processing. Processing can be downloaded [here](http://processing.org).
 
 The program uses the LGPL library gwoptics for displaying graph information. It can either be downloaded and imported from [here](http://www.gwoptics.org/processing/gwoptics_p5lib/) or you can install it directly by opening Processing, and going to: Sketch -> Import Library -> Add Library and searching for "gwoptics".
 
-Once everything required is installed, open one of the sketch files and click the play button in the top lefthand corner.
+Once everything required is installed, make sure that all the sketch files you've taken from here are in a folder called `Evolutionary_Bugs_Program` open one of the sketch files and click the play button in the top lefthand corner.
 
 ## What happens?
 Each bug (blue) can see the fires (red), food (green) and other adult bugs (darker blue) in a short distance around them them and have a basic grasp of how long they have left to live. They use these inputs to make two decisions every frame.
