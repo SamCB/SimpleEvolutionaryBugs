@@ -2,10 +2,10 @@
 A simple project that I made a while ago over a few days, putting together a few things I learned from my AI Course at Uni.
 
 ## Installation
-Executables (Must have Java 7 installed to run):
-* Mac: [Download](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.macosx.zip)
-* Windows: [Download 32-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.windows32.zip), [Download 64-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.windows64.zip)
-* Linux: [Download 32-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.linux32.zip), [Download 64-bit](https://s3-ap-southeast-2.amazonaws.com/scb-downloads/Bugs/application.linux64.zip)
+Executables (Must have Java 7 installed to run, not all versions have been tested):
+* Mac: [Download](https://samwise.me/Bugs/application.macosx.zip)
+* Windows: [Download 32-bit](https://samwise.me/Bugs/application.windows32.zip), [Download 64-bit](https://samwise.me/Bugs/application.windows64.zip)
+* Linux: [Download 32-bit](https://samwise.me/Bugs/application.linux32.zip), [Download 64-bit](https://samwise.me/Bugs/application.linux64.zip)
 
 Or you can use the code and run through processing. Processing can be downloaded [here](http://processing.org).
 
@@ -45,7 +45,7 @@ This calculation occurs once for every bug, every "tick".
 When two bugs mate (if they stay in close enough proximitary for enough time) a juvenile bug will be produced, based off the genetics of both of its parents. The way this works, half the weights for each linear combination are taken from each bug and combined to form the new bug. Each of these weights are then multiplied by a small random number to "mutate" the results.
 
 ## Where to now?
-While I was developing the simulator I did have ideas of where the project could go, however I never really continued implementing them. Now however, I am working on a similar project, except on a much larger scale. Of course, that means it's unlikely this code will be changed again (I may make an attempt at re-commenting it, but no guarantees). If you want to follow progress on my other project, you can check out my [blog](http://128.199.73.180/).
+While I was developing the simulator I did have ideas of where the project could go, however I never really continued implementing them. Now however, I am working on a similar project, except on a much larger scale. Of course, that means it's unlikely this code will be changed again (I may make an attempt at re-commenting it, but no guarantees). If you want to follow progress on my other project, you can check out my [blog](http://samcb.com/).
 
 ## FAQ?
 Unsurprisingly, none.
