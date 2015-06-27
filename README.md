@@ -3,9 +3,9 @@ A simple project that I made a while ago over a few days, putting together a few
 
 ## Installation
 Executables (Must have Java 7 installed to run, not all versions have been tested):
-* Mac: [Download](https://samwise.me/Bugs/application.macosx.zip)
-* Windows: [Download 32-bit](https://samwise.me/Bugs/application.windows32.zip), [Download 64-bit](https://samwise.me/Bugs/application.windows64.zip)
-* Linux: [Download 32-bit](https://samwise.me/Bugs/application.linux32.zip), [Download 64-bit](https://samwise.me/Bugs/application.linux64.zip)
+* Mac: [Download](http://samwise.me/Bugs/application.macosx.zip)
+* Windows: [Download 32-bit](http://samwise.me/Bugs/application.windows32.zip), [Download 64-bit](http://samwise.me/Bugs/application.windows64.zip)
+* Linux: [Download 32-bit](http://samwise.me/Bugs/application.linux32.zip), [Download 64-bit](http://samwise.me/Bugs/application.linux64.zip)
 
 Or you can use the code and run through processing. Processing can be downloaded [here](http://processing.org).
 
